@@ -15,3 +15,7 @@
  ## Используемые библиотеки
  
  ***Pandas, Numpy, Matplotlib, Seaborn, Sklearn***
+ 
+ ## Статус проекта
+
+**Завершен**
